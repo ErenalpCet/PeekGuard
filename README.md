@@ -58,7 +58,6 @@ Contributions are welcome! If you have a feature request, bug report, or want to
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-'''
 MIT License
 
 Copyright (c) 2024 Your Name
@@ -80,4 +79,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-'''

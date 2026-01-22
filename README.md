@@ -9,7 +9,7 @@ The core principle of PeekGuard is **privacy first**. All face detection and ima
 
 <br>
 
-<p align="center"><img src="demo.png" width="300"></p> -->
+<p align="center"><img src="demo.png" width="300"></p>
 
 ## ✨ Key Features
 
